@@ -1,1 +1,1 @@
-## MongoDB Change Streams (TS)
+## MongoDB Change Streams (TS/JS)
