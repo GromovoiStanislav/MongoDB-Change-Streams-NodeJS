@@ -1,0 +1,21 @@
+{
+  "name": "mongoose-change-streams",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.5.0"
+  },
+  "scripts": {
+    "start:dev": "tsx watch src/app.ts",
+    "build": "tsc",
+    "start": "node ./build/app.js",
+    "start:prod": "tsc && node ./build/app.js"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.8",
+    "typescript": "^5.2.2"
+  }
+}
