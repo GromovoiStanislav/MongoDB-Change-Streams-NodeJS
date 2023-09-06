@@ -1,0 +1,12 @@
+{
+    "name": "demo-change-stream",
+    "author": "Nuri Halperin",
+    "repository": {
+        "url": "https://github.com/plusn-nuri/"
+    },
+    "description": "MongoDB Change Streams demo application",
+    "version": "1.0.0",
+    "dependencies": {
+        "mongodb": "3.0.6"
+    }
+}
